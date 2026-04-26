@@ -34,8 +34,6 @@ This project was created to strengthen frontend development skills by applying H
 - Improved animations
 - Enhanced UI design
 
-## Live Demo
-GitHub Page link is Here: https://rajshree051205-cloud.github.io/Tic-Tac-Toe-game/
 
 ## Author
 Built as part of my web development learning journey.
