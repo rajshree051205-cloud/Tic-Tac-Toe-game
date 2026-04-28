@@ -1,5 +1,4 @@
-# Tic-Tac-Toe-game
-Responsive Tic Tac Toe game using HTML, CSS, and JavaScript.
+
 # Tic Tac Toe Game 🎮
 
 A responsive and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
